@@ -1,0 +1,10 @@
+## file system
+- [Journaling the Linux ext2fs Filesystem](https://pdos.csail.mit.edu/6.828/2023/readings/journal-design.pdf)
+- [Virtual memory for applications](https://pdos.csail.mit.edu/6.828/2023/readings/appel-li.pdf)
+- [The Performance of micro-Kernel-Based](https://pdos.csail.mit.edu/6.828/2023/readings/microkernel.pdf)
+- [Dune: Safe User-level Access to Privileged CPU Features](https://pdos.csail.mit.edu/6.828/2023/readings/belay-dune.pdf)
+- [The benefits and costs of writing a POSIX kernel in a high-level language](https://pdos.csail.mit.edu/6.828/2023/readings/biscuit.pdf)
+- [Eliminating Receive Livelock in an Interrupt-driven Kernel](https://pdos.csail.mit.edu/6.828/2023/readings/mogul96usenix.pdf)
+- [Meltdown: Reading Kernel Memory from User Space](https://pdos.csail.mit.edu/6.828/2023/readings/meltdown.pdf)
+- [RCU Usage In the Linux Kernel: One Decade Later](https://pdos.csail.mit.edu/6.828/2023/readings/rcu-decade-later.pdf)
+- [A thorough introduction to eBPF](https://lwn.net/Articles/740157/)
