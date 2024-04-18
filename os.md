@@ -8,4 +8,4 @@
 - [Meltdown: Reading Kernel Memory from User Space](https://pdos.csail.mit.edu/6.828/2023/readings/meltdown.pdf)
 - [RCU Usage In the Linux Kernel: One Decade Later](https://pdos.csail.mit.edu/6.828/2023/readings/rcu-decade-later.pdf)
 - [A thorough introduction to eBPF](https://lwn.net/Articles/740157/)
----
+- [An introduction to Linux's EXT4 filesystem](https://opensource.com/article/17/5/introduction-ext4-filesystem)
